@@ -13,18 +13,6 @@ struct nod
 };
 
 
-/*template <class ElementT>
-class nod
-{
-public:
-	nod(const ElementT &e = 0, nod *n = NULL, nod *p = NULL) : el(e), urmator(n), predecesor(p) {}
-	~nod() {}
-	nod *urmator;
-	nod *predecesor;
-	ElementT el;
-
-};*/
-
 template <typename ElementT>
 class lista
 {
