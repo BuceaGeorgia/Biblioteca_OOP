@@ -1,0 +1,21 @@
+[2019-04-15 00:13:08] [info] Start Program:
+Path:"C:\Users\Georgia\source\repos\lab7_oop\Debug\lab7_oop.exe"
+Arguments:
+Working directory: "C:\Users\Georgia\source\repos\lab7_oop\lab7_oop\"
+Modules: Selected: C:\Users\Georgia\source\repos\lab7_oop\Debug\lab7_oop.exe Excluded: 
+Sources: Selected: C:\Users\Georgia\source\repos\lab7_oop\lab7_oop Excluded: testeRepo.cpp testService.cpp Console.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Georgia\AppData\Local\Temp\hf3o54l5.bbi 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-04-15 00:13:09] [info] Module: C:\Users\Georgia\source\repos\lab7_oop\Debug\lab7_oop.exe is selected because it matches selected pattern: C:\Users\Georgia\source\repos\lab7_oop\Debug\lab7_oop.exe
+[2019-04-15 00:13:12] [info] ----------------------------------------------------
+[2019-04-15 00:13:12] [info] Coverage binary generated in file: C:\Users\Georgia\AppData\Local\Temp\hf3o54l5.bbi
+[2019-04-15 00:13:12] [info] ----------------------------------------------------
