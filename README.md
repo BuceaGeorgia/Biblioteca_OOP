@@ -1,5 +1,5 @@
 # Biblioteca_OOP
-Creați o aplicație care permite:
+Aplicația permite:
 · gestiunea unei liste de cărți. Carte: titlu, autor, gen, anul apariției
 · adăugare, ștergere, modificare și afișare cărți
 · căutare carte
